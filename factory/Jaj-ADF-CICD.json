@@ -1,0 +1,9 @@
+{
+	"name": "Jaj-ADF-CICD",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0930bd71-2269-4f7f-a1bf-2055f2f2c089",
+		"tenantId": "f9bd4cdf-4c23-4b32-9751-fe4a026fff33"
+	}
+}
