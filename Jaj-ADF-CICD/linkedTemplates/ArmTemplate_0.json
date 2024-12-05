@@ -126,7 +126,7 @@
 								"storeSettings": {
 									"type": "AzureBlobFSReadSettings",
 									"recursive": true,
-									"wildcardFolderPath": "CSV",
+									"wildcardFolderPath": "Customer",
 									"wildcardFileName": "*",
 									"enablePartitionDiscovery": false
 								},
