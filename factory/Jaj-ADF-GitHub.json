@@ -1,0 +1,9 @@
+{
+	"name": "Jaj-ADF-GitHub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dfb1af4c-5320-43b1-beda-b7a4ef063ff6",
+		"tenantId": "f9bd4cdf-4c23-4b32-9751-fe4a026fff33"
+	}
+}
